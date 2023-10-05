@@ -3,7 +3,7 @@ The  Deformer: a doctor’s experience enhancement method for automatic diagnosi
 
 ## [Overview](https://github.com/Dustzx/Deformer/blob/main/README.md#overview)
 
-In this paper, a doctor’s experience enhancement method model is proposed to learn more implicit experience of doctors. On the Dxy、MZ-4 and MZ-10 dataset, our model outperforms in the core metrics diagnosis accuracy in lower inquiry rounds from 0.7% to 2.0% compared to the most advanced models. In addition, on the MZ-10 dataset our model's symptom recall rate metric  improve 19% compared to the previous state-of-the-art model.  .
+In this paper, a doctor’s experience enhancement method model is proposed to learn more implicit experience of doctors. On the Dxy、MZ-4 and MZ-10 dataset, our model outperforms in the core metrics diagnosis accuracy in lower inquiry rounds from 0.7% to 2.0% compared to the most advanced models. In addition, on the MZ-10 dataset our model's symptom recall rate metric  improve 19% compared to the previous state-of-the-art model.
 
 ## [Setup](https://github.com/Dustzx/Deformer/blob/main/README.md#setup)
 
