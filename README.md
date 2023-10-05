@@ -1,7 +1,4 @@
 # [Deformer: a doctor’s experience enhancement method](https://github.com/Dustzx/Deformer/blob/main/README.md#Deformer: a doctor’s experience enhancement method)
-for automatic diagnosis based on transformer ](https://github.com/Dustzx/Deformer/blob/main/README.md#Deformer: a doctor’s experience enhancement method
-for automatic diagnosis based on transformer )
-
 The  Deformer: a doctor’s experience enhancement method for automatic diagnosis based on transformer  is built based on DxFormer's decoder-encoder framework. The repo can be used to reproduce the results in the [paper]():
 
 ## [Overview](https://github.com/Dustzx/Deformer/blob/main/README.md#overview)
