@@ -1,0 +1,453 @@
+2023-08-18 10:25:19,670 - INFO - ===========================is_position:True,is_shuffle:True,full_shuffle:False===========================
+2023-08-18 10:25:27,451 - INFO - Epoch [1/150] - Loss: 3.4344
+2023-08-18 10:25:27,906 - INFO - epoch: 1, train total/si/dc loss: 3.7363/3.7363/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:25:32,099 - INFO - Epoch [2/150] - Loss: 3.4709
+2023-08-18 10:25:32,388 - INFO - epoch: 2, train total/si/dc loss: 3.3788/3.3788/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:25:36,918 - INFO - Epoch [3/150] - Loss: 2.8545
+2023-08-18 10:25:37,290 - INFO - epoch: 3, train total/si/dc loss: 3.2728/3.2728/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:25:41,614 - INFO - Epoch [4/150] - Loss: 3.3090
+2023-08-18 10:25:41,901 - INFO - epoch: 4, train total/si/dc loss: 3.2351/3.2351/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:25:46,281 - INFO - Epoch [5/150] - Loss: 3.2815
+2023-08-18 10:25:46,690 - INFO - epoch: 5, train total/si/dc loss: 3.2071/3.2071/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:25:52,835 - INFO - Epoch [6/150] - Loss: 2.4040
+2023-08-18 10:25:53,175 - INFO - epoch: 6, train total/si/dc loss: 3.1681/3.1681/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:26:00,376 - INFO - Epoch [7/150] - Loss: 2.9736
+2023-08-18 10:26:01,446 - INFO - epoch: 7, train total/si/dc loss: 3.1352/3.1352/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:26:14,936 - INFO - Epoch [8/150] - Loss: 3.0962
+2023-08-18 10:26:16,020 - INFO - epoch: 8, train total/si/dc loss: 3.1157/3.1157/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:26:29,263 - INFO - Epoch [9/150] - Loss: 3.0463
+2023-08-18 10:26:30,319 - INFO - epoch: 9, train total/si/dc loss: 3.0905/3.0905/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:26:43,238 - INFO - Epoch [10/150] - Loss: 3.1694
+2023-08-18 10:26:44,173 - INFO - epoch: 10, train total/si/dc loss: 3.0719/3.0719/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:26:57,332 - INFO - Epoch [11/150] - Loss: 3.3682
+2023-08-18 10:26:58,343 - INFO - epoch: 11, train total/si/dc loss: 3.0489/3.0489/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:27:11,507 - INFO - Epoch [12/150] - Loss: 2.8803
+2023-08-18 10:27:12,542 - INFO - epoch: 12, train total/si/dc loss: 3.0504/3.0504/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:27:25,344 - INFO - Epoch [13/150] - Loss: 2.5545
+2023-08-18 10:27:26,370 - INFO - epoch: 13, train total/si/dc loss: 3.0237/3.0237/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:27:39,207 - INFO - Epoch [14/150] - Loss: 2.8430
+2023-08-18 10:27:40,250 - INFO - epoch: 14, train total/si/dc loss: 3.0004/3.0004/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:27:53,402 - INFO - Epoch [15/150] - Loss: 2.6505
+2023-08-18 10:27:54,395 - INFO - epoch: 15, train total/si/dc loss: 2.9858/2.9858/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:28:07,056 - INFO - Epoch [16/150] - Loss: 2.6482
+2023-08-18 10:28:08,087 - INFO - epoch: 16, train total/si/dc loss: 2.9672/2.9672/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:28:20,936 - INFO - Epoch [17/150] - Loss: 2.9323
+2023-08-18 10:28:21,876 - INFO - epoch: 17, train total/si/dc loss: 2.9619/2.9619/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:28:34,441 - INFO - Epoch [18/150] - Loss: 2.5504
+2023-08-18 10:28:35,447 - INFO - epoch: 18, train total/si/dc loss: 2.947/2.947/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:28:48,122 - INFO - Epoch [19/150] - Loss: 2.7067
+2023-08-18 10:28:49,057 - INFO - epoch: 19, train total/si/dc loss: 2.9318/2.9318/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:29:01,829 - INFO - Epoch [20/150] - Loss: 3.0827
+2023-08-18 10:29:02,816 - INFO - epoch: 20, train total/si/dc loss: 2.9215/2.9215/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:29:15,713 - INFO - Epoch [21/150] - Loss: 2.8944
+2023-08-18 10:29:16,786 - INFO - epoch: 21, train total/si/dc loss: 2.9033/2.9033/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:29:29,616 - INFO - Epoch [22/150] - Loss: 2.8196
+2023-08-18 10:29:30,613 - INFO - epoch: 22, train total/si/dc loss: 2.8841/2.8841/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:29:43,296 - INFO - Epoch [23/150] - Loss: 2.8323
+2023-08-18 10:29:44,304 - INFO - epoch: 23, train total/si/dc loss: 2.8625/2.8625/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:29:57,295 - INFO - Epoch [24/150] - Loss: 2.9722
+2023-08-18 10:29:58,214 - INFO - epoch: 24, train total/si/dc loss: 2.8565/2.8565/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:30:11,000 - INFO - Epoch [25/150] - Loss: 2.9106
+2023-08-18 10:30:12,068 - INFO - epoch: 25, train total/si/dc loss: 2.8509/2.8509/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:30:24,846 - INFO - Epoch [26/150] - Loss: 2.8104
+2023-08-18 10:30:25,847 - INFO - epoch: 26, train total/si/dc loss: 2.8291/2.8291/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:30:38,759 - INFO - Epoch [27/150] - Loss: 3.1935
+2023-08-18 10:30:39,762 - INFO - epoch: 27, train total/si/dc loss: 2.8125/2.8125/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:30:52,656 - INFO - Epoch [28/150] - Loss: 3.0556
+2023-08-18 10:30:53,679 - INFO - epoch: 28, train total/si/dc loss: 2.8096/2.8096/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:31:06,621 - INFO - Epoch [29/150] - Loss: 2.8572
+2023-08-18 10:31:07,628 - INFO - epoch: 29, train total/si/dc loss: 2.7932/2.7932/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:31:20,430 - INFO - Epoch [30/150] - Loss: 3.0169
+2023-08-18 10:31:21,435 - INFO - epoch: 30, train total/si/dc loss: 2.7843/2.7843/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:31:34,590 - INFO - Epoch [31/150] - Loss: 2.6947
+2023-08-18 10:31:35,519 - INFO - epoch: 31, train total/si/dc loss: 2.7688/2.7688/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:31:48,391 - INFO - Epoch [32/150] - Loss: 3.0570
+2023-08-18 10:31:49,411 - INFO - epoch: 32, train total/si/dc loss: 2.7481/2.7481/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:32:02,203 - INFO - Epoch [33/150] - Loss: 2.5444
+2023-08-18 10:32:03,165 - INFO - epoch: 33, train total/si/dc loss: 2.7475/2.7475/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:32:16,059 - INFO - Epoch [34/150] - Loss: 2.5606
+2023-08-18 10:32:17,052 - INFO - epoch: 34, train total/si/dc loss: 2.7226/2.7226/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:32:30,022 - INFO - Epoch [35/150] - Loss: 2.8436
+2023-08-18 10:32:31,090 - INFO - epoch: 35, train total/si/dc loss: 2.7207/2.7207/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:32:44,308 - INFO - Epoch [36/150] - Loss: 2.5255
+2023-08-18 10:32:45,337 - INFO - epoch: 36, train total/si/dc loss: 2.7083/2.7083/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:32:58,233 - INFO - Epoch [37/150] - Loss: 3.0047
+2023-08-18 10:32:59,306 - INFO - epoch: 37, train total/si/dc loss: 2.7034/2.7034/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:33:12,142 - INFO - Epoch [38/150] - Loss: 2.3599
+2023-08-18 10:33:13,141 - INFO - epoch: 38, train total/si/dc loss: 2.6789/2.6789/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:33:25,964 - INFO - Epoch [39/150] - Loss: 2.4411
+2023-08-18 10:33:26,966 - INFO - epoch: 39, train total/si/dc loss: 2.679/2.679/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:33:39,689 - INFO - Epoch [40/150] - Loss: 2.7188
+2023-08-18 10:33:40,600 - INFO - epoch: 40, train total/si/dc loss: 2.6653/2.6653/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:33:53,317 - INFO - Epoch [41/150] - Loss: 2.7397
+2023-08-18 10:33:54,341 - INFO - epoch: 41, train total/si/dc loss: 2.6405/2.6405/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:34:07,364 - INFO - Epoch [42/150] - Loss: 2.9676
+2023-08-18 10:34:08,332 - INFO - epoch: 42, train total/si/dc loss: 2.6507/2.6507/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:34:21,037 - INFO - Epoch [43/150] - Loss: 2.7963
+2023-08-18 10:34:22,058 - INFO - epoch: 43, train total/si/dc loss: 2.6272/2.6272/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:34:34,658 - INFO - Epoch [44/150] - Loss: 2.5765
+2023-08-18 10:34:35,654 - INFO - epoch: 44, train total/si/dc loss: 2.6101/2.6101/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:34:48,361 - INFO - Epoch [45/150] - Loss: 2.3495
+2023-08-18 10:34:49,339 - INFO - epoch: 45, train total/si/dc loss: 2.6114/2.6114/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:35:01,992 - INFO - Epoch [46/150] - Loss: 2.7866
+2023-08-18 10:35:03,007 - INFO - epoch: 46, train total/si/dc loss: 2.5926/2.5926/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:35:16,013 - INFO - Epoch [47/150] - Loss: 2.5886
+2023-08-18 10:35:16,984 - INFO - epoch: 47, train total/si/dc loss: 2.5821/2.5821/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:35:29,944 - INFO - Epoch [48/150] - Loss: 2.4706
+2023-08-18 10:35:30,971 - INFO - epoch: 48, train total/si/dc loss: 2.5579/2.5579/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:35:43,832 - INFO - Epoch [49/150] - Loss: 2.5132
+2023-08-18 10:35:44,778 - INFO - epoch: 49, train total/si/dc loss: 2.5618/2.5618/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:35:57,523 - INFO - Epoch [50/150] - Loss: 2.5354
+2023-08-18 10:35:58,535 - INFO - epoch: 50, train total/si/dc loss: 2.5485/2.5485/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:36:11,611 - INFO - Epoch [51/150] - Loss: 2.5227
+2023-08-18 10:36:12,645 - INFO - epoch: 51, train total/si/dc loss: 2.5568/2.5568/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:36:25,521 - INFO - Epoch [52/150] - Loss: 2.5978
+2023-08-18 10:36:26,539 - INFO - epoch: 52, train total/si/dc loss: 2.5451/2.5451/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:36:39,315 - INFO - Epoch [53/150] - Loss: 2.3759
+2023-08-18 10:36:40,341 - INFO - epoch: 53, train total/si/dc loss: 2.5098/2.5098/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:36:53,358 - INFO - Epoch [54/150] - Loss: 2.6983
+2023-08-18 10:36:54,329 - INFO - epoch: 54, train total/si/dc loss: 2.506/2.506/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:37:07,110 - INFO - Epoch [55/150] - Loss: 2.4250
+2023-08-18 10:37:08,138 - INFO - epoch: 55, train total/si/dc loss: 2.4973/2.4973/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:37:21,013 - INFO - Epoch [56/150] - Loss: 2.4583
+2023-08-18 10:37:21,927 - INFO - epoch: 56, train total/si/dc loss: 2.4977/2.4977/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:37:34,613 - INFO - Epoch [57/150] - Loss: 2.4599
+2023-08-18 10:37:35,618 - INFO - epoch: 57, train total/si/dc loss: 2.4685/2.4685/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:37:48,369 - INFO - Epoch [58/150] - Loss: 2.7290
+2023-08-18 10:37:49,376 - INFO - epoch: 58, train total/si/dc loss: 2.4701/2.4701/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:38:02,248 - INFO - Epoch [59/150] - Loss: 2.4846
+2023-08-18 10:38:03,256 - INFO - epoch: 59, train total/si/dc loss: 2.453/2.453/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:38:16,127 - INFO - Epoch [60/150] - Loss: 2.4103
+2023-08-18 10:38:17,157 - INFO - epoch: 60, train total/si/dc loss: 2.4505/2.4505/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:38:30,063 - INFO - Epoch [61/150] - Loss: 3.0156
+2023-08-18 10:38:30,996 - INFO - epoch: 61, train total/si/dc loss: 2.4474/2.4474/0.0, train/test/best acc: 0.0/0.2696/0.2696
+
+2023-08-18 10:38:46,703 - INFO - Epoch [62/150] - Loss: 3.5532
+2023-08-18 10:38:47,717 - INFO - epoch: 62, train total/si/dc loss: 3.3024/2.4334/0.869, train/test/best acc: 0.5958/0.7072/0.7072
+
+2023-08-18 10:39:04,204 - INFO - Epoch [63/150] - Loss: 2.9030
+2023-08-18 10:39:05,294 - INFO - epoch: 63, train total/si/dc loss: 3.0654/2.4138/0.6516, train/test/best acc: 0.7356/0.7478/0.7478
+
+2023-08-18 10:39:21,672 - INFO - Epoch [64/150] - Loss: 2.8413
+2023-08-18 10:39:22,864 - INFO - epoch: 64, train total/si/dc loss: 3.013/2.4058/0.6072, train/test/best acc: 0.7385/0.7507/0.7507
+
+2023-08-18 10:39:39,076 - INFO - Epoch [65/150] - Loss: 2.9798
+2023-08-18 10:39:40,208 - INFO - epoch: 65, train total/si/dc loss: 2.9741/2.4014/0.5727, train/test/best acc: 0.7536/0.7565/0.7565
+
+2023-08-18 10:39:56,285 - INFO - Epoch [66/150] - Loss: 3.6532
+2023-08-18 10:39:57,308 - INFO - epoch: 66, train total/si/dc loss: 2.937/2.392/0.545, train/test/best acc: 0.7644/0.7478/0.7565
+
+2023-08-18 10:40:12,811 - INFO - Epoch [67/150] - Loss: 3.1842
+2023-08-18 10:40:13,835 - INFO - epoch: 67, train total/si/dc loss: 2.9141/2.3912/0.523, train/test/best acc: 0.7839/0.7188/0.7565
+
+2023-08-18 10:40:29,568 - INFO - Epoch [68/150] - Loss: 2.8125
+2023-08-18 10:40:30,577 - INFO - epoch: 68, train total/si/dc loss: 2.8843/2.373/0.5113, train/test/best acc: 0.7867/0.7246/0.7565
+
+2023-08-18 10:40:46,348 - INFO - Epoch [69/150] - Loss: 3.2856
+2023-08-18 10:40:47,531 - INFO - epoch: 69, train total/si/dc loss: 2.8676/2.3635/0.5041, train/test/best acc: 0.7875/0.7623/0.7623
+
+2023-08-18 10:41:04,051 - INFO - Epoch [70/150] - Loss: 2.3130
+2023-08-18 10:41:05,045 - INFO - epoch: 70, train total/si/dc loss: 2.8471/2.3516/0.4955, train/test/best acc: 0.7831/0.7536/0.7623
+
+2023-08-18 10:41:20,815 - INFO - Epoch [71/150] - Loss: 2.2845
+2023-08-18 10:41:21,883 - INFO - epoch: 71, train total/si/dc loss: 2.7716/2.3503/0.4213, train/test/best acc: 0.8365/0.771/0.771
+
+2023-08-18 10:41:38,358 - INFO - Epoch [72/150] - Loss: 3.4494
+2023-08-18 10:41:39,278 - INFO - epoch: 72, train total/si/dc loss: 2.7578/2.3375/0.4203, train/test/best acc: 0.8213/0.7101/0.771
+
+2023-08-18 10:41:55,300 - INFO - Epoch [73/150] - Loss: 2.5566
+2023-08-18 10:41:56,302 - INFO - epoch: 73, train total/si/dc loss: 2.7778/2.3445/0.4333, train/test/best acc: 0.8156/0.7565/0.771
+
+2023-08-18 10:42:11,786 - INFO - Epoch [74/150] - Loss: 2.7262
+2023-08-18 10:42:12,744 - INFO - epoch: 74, train total/si/dc loss: 2.7199/2.3239/0.396, train/test/best acc: 0.8372/0.7594/0.771
+
+2023-08-18 10:42:28,432 - INFO - Epoch [75/150] - Loss: 2.6999
+2023-08-18 10:42:29,431 - INFO - epoch: 75, train total/si/dc loss: 2.729/2.3208/0.4083, train/test/best acc: 0.8343/0.7478/0.771
+
+2023-08-18 10:42:45,186 - INFO - Epoch [76/150] - Loss: 2.6093
+2023-08-18 10:42:46,183 - INFO - epoch: 76, train total/si/dc loss: 2.7004/2.3113/0.3891, train/test/best acc: 0.835/0.7478/0.771
+
+2023-08-18 10:43:01,769 - INFO - Epoch [77/150] - Loss: 2.5235
+2023-08-18 10:43:02,768 - INFO - epoch: 77, train total/si/dc loss: 2.6753/2.3054/0.37, train/test/best acc: 0.8408/0.7536/0.771
+
+2023-08-18 10:43:18,257 - INFO - Epoch [78/150] - Loss: 2.2419
+2023-08-18 10:43:19,270 - INFO - epoch: 78, train total/si/dc loss: 2.6534/2.2853/0.3682, train/test/best acc: 0.8401/0.7507/0.771
+
+2023-08-18 10:43:34,671 - INFO - Epoch [79/150] - Loss: 2.6920
+2023-08-18 10:43:35,664 - INFO - epoch: 79, train total/si/dc loss: 2.626/2.2786/0.3474, train/test/best acc: 0.848/0.7478/0.771
+
+2023-08-18 10:43:51,606 - INFO - Epoch [80/150] - Loss: 2.6715
+2023-08-18 10:43:52,614 - INFO - epoch: 80, train total/si/dc loss: 2.5988/2.2784/0.3204, train/test/best acc: 0.8624/0.7333/0.771
+
+2023-08-18 10:44:03,181 - INFO - Epoch [81/150] - Loss: 2.3685
+2023-08-18 10:44:03,458 - INFO - epoch: 81, train total/si/dc loss: 2.6146/2.2751/0.3394, train/test/best acc: 0.8602/0.7246/0.771
+
+2023-08-18 10:44:09,448 - INFO - Epoch [82/150] - Loss: 2.7135
+2023-08-18 10:44:09,725 - INFO - epoch: 82, train total/si/dc loss: 2.594/2.2688/0.3252, train/test/best acc: 0.8674/0.7391/0.771
+
+2023-08-18 10:44:15,713 - INFO - Epoch [83/150] - Loss: 2.6868
+2023-08-18 10:44:15,991 - INFO - epoch: 83, train total/si/dc loss: 2.5375/2.2576/0.2799, train/test/best acc: 0.8854/0.7478/0.771
+
+2023-08-18 10:44:22,023 - INFO - Epoch [84/150] - Loss: 3.2820
+2023-08-18 10:44:22,387 - INFO - epoch: 84, train total/si/dc loss: 2.5303/2.2506/0.2797, train/test/best acc: 0.8876/0.7275/0.771
+
+2023-08-18 10:44:28,387 - INFO - Epoch [85/150] - Loss: 2.7140
+2023-08-18 10:44:28,664 - INFO - epoch: 85, train total/si/dc loss: 2.5211/2.2367/0.2844, train/test/best acc: 0.8775/0.7304/0.771
+
+2023-08-18 10:44:34,648 - INFO - Epoch [86/150] - Loss: 2.2287
+2023-08-18 10:44:34,925 - INFO - epoch: 86, train total/si/dc loss: 2.5179/2.2356/0.2823, train/test/best acc: 0.8912/0.7101/0.771
+
+2023-08-18 10:44:40,902 - INFO - Epoch [87/150] - Loss: 2.1830
+2023-08-18 10:44:41,265 - INFO - epoch: 87, train total/si/dc loss: 2.4984/2.2299/0.2686, train/test/best acc: 0.8869/0.7362/0.771
+
+2023-08-18 10:44:47,311 - INFO - Epoch [88/150] - Loss: 2.2657
+2023-08-18 10:44:47,588 - INFO - epoch: 88, train total/si/dc loss: 2.4865/2.2256/0.2609, train/test/best acc: 0.8869/0.7217/0.771
+
+2023-08-18 10:44:53,610 - INFO - Epoch [89/150] - Loss: 2.7672
+2023-08-18 10:44:53,887 - INFO - epoch: 89, train total/si/dc loss: 2.4668/2.2278/0.239, train/test/best acc: 0.8927/0.7449/0.771
+
+2023-08-18 10:44:59,885 - INFO - Epoch [90/150] - Loss: 2.6097
+2023-08-18 10:45:00,163 - INFO - epoch: 90, train total/si/dc loss: 2.4546/2.2096/0.245, train/test/best acc: 0.902/0.7333/0.771
+
+2023-08-18 10:45:06,154 - INFO - Epoch [91/150] - Loss: 2.2461
+2023-08-18 10:45:06,433 - INFO - epoch: 91, train total/si/dc loss: 2.4446/2.1961/0.2485, train/test/best acc: 0.9027/0.7188/0.771
+
+2023-08-18 10:45:12,419 - INFO - Epoch [92/150] - Loss: 3.0062
+2023-08-18 10:45:12,698 - INFO - epoch: 92, train total/si/dc loss: 2.4612/2.1962/0.265, train/test/best acc: 0.8818/0.7101/0.771
+
+2023-08-18 10:45:18,712 - INFO - Epoch [93/150] - Loss: 2.3359
+2023-08-18 10:45:18,989 - INFO - epoch: 93, train total/si/dc loss: 2.4125/2.1795/0.2329, train/test/best acc: 0.9121/0.7275/0.771
+
+2023-08-18 10:45:24,977 - INFO - Epoch [94/150] - Loss: 2.4346
+2023-08-18 10:45:25,253 - INFO - epoch: 94, train total/si/dc loss: 2.4165/2.167/0.2495, train/test/best acc: 0.897/0.7478/0.771
+
+2023-08-18 10:45:31,239 - INFO - Epoch [95/150] - Loss: 2.2125
+2023-08-18 10:45:31,518 - INFO - epoch: 95, train total/si/dc loss: 2.3917/2.1826/0.2091, train/test/best acc: 0.9056/0.7159/0.771
+
+2023-08-18 10:45:37,559 - INFO - Epoch [96/150] - Loss: 2.8135
+2023-08-18 10:45:37,896 - INFO - epoch: 96, train total/si/dc loss: 2.3798/2.1824/0.1973, train/test/best acc: 0.9171/0.7246/0.771
+
+2023-08-18 10:45:43,897 - INFO - Epoch [97/150] - Loss: 2.4277
+2023-08-18 10:45:44,223 - INFO - epoch: 97, train total/si/dc loss: 2.3675/2.164/0.2034, train/test/best acc: 0.9135/0.7362/0.771
+
+2023-08-18 10:45:50,215 - INFO - Epoch [98/150] - Loss: 2.4598
+2023-08-18 10:45:50,494 - INFO - epoch: 98, train total/si/dc loss: 2.3483/2.1459/0.2023, train/test/best acc: 0.9143/0.7362/0.771
+
+2023-08-18 10:45:56,469 - INFO - Epoch [99/150] - Loss: 2.4702
+2023-08-18 10:45:56,753 - INFO - epoch: 99, train total/si/dc loss: 2.3526/2.1395/0.2131, train/test/best acc: 0.9092/0.7333/0.771
+
+2023-08-18 10:46:02,758 - INFO - Epoch [100/150] - Loss: 2.1998
+2023-08-18 10:46:03,036 - INFO - epoch: 100, train total/si/dc loss: 2.342/2.1498/0.1923, train/test/best acc: 0.9171/0.7478/0.771
+
+2023-08-18 10:46:09,030 - INFO - Epoch [101/150] - Loss: 2.8835
+2023-08-18 10:46:09,307 - INFO - epoch: 101, train total/si/dc loss: 2.3121/2.1319/0.1802, train/test/best acc: 0.9316/0.7536/0.771
+
+2023-08-18 10:46:15,287 - INFO - Epoch [102/150] - Loss: 2.2899
+2023-08-18 10:46:15,593 - INFO - epoch: 102, train total/si/dc loss: 2.31/2.1241/0.1859, train/test/best acc: 0.9244/0.7246/0.771
+
+2023-08-18 10:46:21,587 - INFO - Epoch [103/150] - Loss: 2.1998
+2023-08-18 10:46:21,871 - INFO - epoch: 103, train total/si/dc loss: 2.3361/2.1319/0.2042, train/test/best acc: 0.9128/0.7362/0.771
+
+2023-08-18 10:46:27,868 - INFO - Epoch [104/150] - Loss: 2.2988
+2023-08-18 10:46:28,145 - INFO - epoch: 104, train total/si/dc loss: 2.285/2.1014/0.1836, train/test/best acc: 0.9171/0.7362/0.771
+
+2023-08-18 10:46:34,160 - INFO - Epoch [105/150] - Loss: 2.1601
+2023-08-18 10:46:34,437 - INFO - epoch: 105, train total/si/dc loss: 2.2749/2.1142/0.1607, train/test/best acc: 0.9301/0.7304/0.771
+
+2023-08-18 10:46:40,403 - INFO - Epoch [106/150] - Loss: 2.1622
+2023-08-18 10:46:40,681 - INFO - epoch: 106, train total/si/dc loss: 2.2949/2.1093/0.1856, train/test/best acc: 0.9258/0.7217/0.771
+
+2023-08-18 10:46:46,673 - INFO - Epoch [107/150] - Loss: 2.4311
+2023-08-18 10:46:46,957 - INFO - epoch: 107, train total/si/dc loss: 2.2659/2.1001/0.1658, train/test/best acc: 0.9258/0.7391/0.771
+
+2023-08-18 10:46:52,940 - INFO - Epoch [108/150] - Loss: 2.2561
+2023-08-18 10:46:53,216 - INFO - epoch: 108, train total/si/dc loss: 2.2627/2.0969/0.1657, train/test/best acc: 0.9388/0.7449/0.771
+
+2023-08-18 10:46:59,212 - INFO - Epoch [109/150] - Loss: 2.4446
+2023-08-18 10:46:59,489 - INFO - epoch: 109, train total/si/dc loss: 2.2476/2.0923/0.1553, train/test/best acc: 0.933/0.7304/0.771
+
+2023-08-18 10:47:05,493 - INFO - Epoch [110/150] - Loss: 2.3458
+2023-08-18 10:47:05,765 - INFO - epoch: 110, train total/si/dc loss: 2.2677/2.0867/0.181, train/test/best acc: 0.9272/0.742/0.771
+
+2023-08-18 10:47:11,760 - INFO - Epoch [111/150] - Loss: 2.2951
+2023-08-18 10:47:12,044 - INFO - epoch: 111, train total/si/dc loss: 2.2495/2.0754/0.1741, train/test/best acc: 0.9294/0.7275/0.771
+
+2023-08-18 10:47:18,030 - INFO - Epoch [112/150] - Loss: 2.0102
+2023-08-18 10:47:18,307 - INFO - epoch: 112, train total/si/dc loss: 2.2225/2.0784/0.1441, train/test/best acc: 0.9424/0.7072/0.771
+
+2023-08-18 10:47:24,296 - INFO - Epoch [113/150] - Loss: 2.1907
+2023-08-18 10:47:24,575 - INFO - epoch: 113, train total/si/dc loss: 2.1937/2.0649/0.1288, train/test/best acc: 0.9431/0.7478/0.771
+
+2023-08-18 10:47:30,562 - INFO - Epoch [114/150] - Loss: 2.0824
+2023-08-18 10:47:30,841 - INFO - epoch: 114, train total/si/dc loss: 2.1931/2.0531/0.14, train/test/best acc: 0.9409/0.7217/0.771
+
+2023-08-18 10:47:36,848 - INFO - Epoch [115/150] - Loss: 2.1477
+2023-08-18 10:47:37,131 - INFO - epoch: 115, train total/si/dc loss: 2.2054/2.0492/0.1562, train/test/best acc: 0.9395/0.7507/0.771
+
+2023-08-18 10:47:43,125 - INFO - Epoch [116/150] - Loss: 2.1881
+2023-08-18 10:47:43,486 - INFO - epoch: 116, train total/si/dc loss: 2.1795/2.0555/0.1239, train/test/best acc: 0.9481/0.7246/0.771
+
+2023-08-18 10:47:49,488 - INFO - Epoch [117/150] - Loss: 2.1623
+2023-08-18 10:47:49,764 - INFO - epoch: 117, train total/si/dc loss: 2.192/2.0536/0.1383, train/test/best acc: 0.9373/0.7188/0.771
+
+2023-08-18 10:47:55,728 - INFO - Epoch [118/150] - Loss: 2.4457
+2023-08-18 10:47:56,090 - INFO - epoch: 118, train total/si/dc loss: 2.1962/2.0482/0.1481, train/test/best acc: 0.9424/0.6986/0.771
+
+2023-08-18 10:48:02,163 - INFO - Epoch [119/150] - Loss: 2.1933
+2023-08-18 10:48:02,525 - INFO - epoch: 119, train total/si/dc loss: 2.1701/2.0325/0.1376, train/test/best acc: 0.9438/0.7159/0.771
+
+2023-08-18 10:48:08,513 - INFO - Epoch [120/150] - Loss: 2.2752
+2023-08-18 10:48:08,816 - INFO - epoch: 120, train total/si/dc loss: 2.1592/2.0381/0.121, train/test/best acc: 0.9532/0.7217/0.771
+
+2023-08-18 10:48:14,797 - INFO - Epoch [121/150] - Loss: 2.1331
+2023-08-18 10:48:15,074 - INFO - epoch: 121, train total/si/dc loss: 2.1691/2.0357/0.1334, train/test/best acc: 0.946/0.7304/0.771
+
+2023-08-18 10:48:21,129 - INFO - Epoch [122/150] - Loss: 2.3081
+2023-08-18 10:48:21,525 - INFO - epoch: 122, train total/si/dc loss: 2.1638/2.0167/0.1471, train/test/best acc: 0.9373/0.713/0.771
+
+2023-08-18 10:48:27,628 - INFO - Epoch [123/150] - Loss: 1.9914
+2023-08-18 10:48:27,907 - INFO - epoch: 123, train total/si/dc loss: 2.1755/2.0181/0.1575, train/test/best acc: 0.9416/0.742/0.771
+
+2023-08-18 10:48:34,000 - INFO - Epoch [124/150] - Loss: 2.1600
+2023-08-18 10:48:34,277 - INFO - epoch: 124, train total/si/dc loss: 2.1417/2.012/0.1297, train/test/best acc: 0.9539/0.7304/0.771
+
+2023-08-18 10:48:40,250 - INFO - Epoch [125/150] - Loss: 2.1742
+2023-08-18 10:48:40,527 - INFO - epoch: 125, train total/si/dc loss: 2.1411/2.0143/0.1268, train/test/best acc: 0.946/0.7275/0.771
+
+2023-08-18 10:48:46,519 - INFO - Epoch [126/150] - Loss: 2.1030
+2023-08-18 10:48:46,804 - INFO - epoch: 126, train total/si/dc loss: 2.1433/2.0064/0.1368, train/test/best acc: 0.9481/0.7304/0.771
+
+2023-08-18 10:48:52,821 - INFO - Epoch [127/150] - Loss: 1.9748
+2023-08-18 10:48:53,109 - INFO - epoch: 127, train total/si/dc loss: 2.126/2.0098/0.1162, train/test/best acc: 0.9539/0.7188/0.771
+
+2023-08-18 10:48:59,123 - INFO - Epoch [128/150] - Loss: 2.3175
+2023-08-18 10:48:59,400 - INFO - epoch: 128, train total/si/dc loss: 2.1217/2.0022/0.1195, train/test/best acc: 0.9503/0.7391/0.771
+
+2023-08-18 10:49:05,373 - INFO - Epoch [129/150] - Loss: 2.4133
+2023-08-18 10:49:05,651 - INFO - epoch: 129, train total/si/dc loss: 2.1196/1.9966/0.123, train/test/best acc: 0.9524/0.7275/0.771
+
+2023-08-18 10:49:11,657 - INFO - Epoch [130/150] - Loss: 1.7848
+2023-08-18 10:49:11,941 - INFO - epoch: 130, train total/si/dc loss: 2.0949/1.9876/0.1074, train/test/best acc: 0.9561/0.7188/0.771
+
+2023-08-18 10:49:17,951 - INFO - Epoch [131/150] - Loss: 2.0948
+2023-08-18 10:49:18,230 - INFO - epoch: 131, train total/si/dc loss: 2.0856/1.9745/0.1111, train/test/best acc: 0.9568/0.742/0.771
+
+2023-08-18 10:49:24,223 - INFO - Epoch [132/150] - Loss: 1.7870
+2023-08-18 10:49:24,500 - INFO - epoch: 132, train total/si/dc loss: 2.1062/1.9801/0.126, train/test/best acc: 0.9474/0.7246/0.771
+
+2023-08-18 10:49:30,470 - INFO - Epoch [133/150] - Loss: 1.7531
+2023-08-18 10:49:30,744 - INFO - epoch: 133, train total/si/dc loss: 2.1142/1.9649/0.1494, train/test/best acc: 0.9431/0.7362/0.771
+
+2023-08-18 10:49:36,751 - INFO - Epoch [134/150] - Loss: 2.0617
+2023-08-18 10:49:37,034 - INFO - epoch: 134, train total/si/dc loss: 2.1194/1.9792/0.1402, train/test/best acc: 0.9481/0.7101/0.771
+
+2023-08-18 10:49:43,013 - INFO - Epoch [135/150] - Loss: 2.0516
+2023-08-18 10:49:43,290 - INFO - epoch: 135, train total/si/dc loss: 2.0862/1.9701/0.1162, train/test/best acc: 0.9561/0.713/0.771
+
+2023-08-18 10:49:49,277 - INFO - Epoch [136/150] - Loss: 2.0018
+2023-08-18 10:49:49,554 - INFO - epoch: 136, train total/si/dc loss: 2.0968/1.9679/0.1289, train/test/best acc: 0.9496/0.7304/0.771
+
+2023-08-18 10:49:55,527 - INFO - Epoch [137/150] - Loss: 2.0981
+2023-08-18 10:49:55,803 - INFO - epoch: 137, train total/si/dc loss: 2.1051/1.9597/0.1454, train/test/best acc: 0.946/0.7072/0.771
+
+2023-08-18 10:50:01,782 - INFO - Epoch [138/150] - Loss: 1.5151
+2023-08-18 10:50:02,152 - INFO - epoch: 138, train total/si/dc loss: 2.0756/1.9592/0.1164, train/test/best acc: 0.9524/0.7159/0.771
+
+2023-08-18 10:50:08,147 - INFO - Epoch [139/150] - Loss: 2.1206
+2023-08-18 10:50:08,420 - INFO - epoch: 139, train total/si/dc loss: 2.0576/1.9544/0.1032, train/test/best acc: 0.9633/0.7159/0.771
+
+2023-08-18 10:50:14,411 - INFO - Epoch [140/150] - Loss: 2.3127
+2023-08-18 10:50:14,689 - INFO - epoch: 140, train total/si/dc loss: 2.0493/1.9393/0.11, train/test/best acc: 0.9539/0.7246/0.771
+
+2023-08-18 10:50:20,700 - INFO - Epoch [141/150] - Loss: 1.9591
+2023-08-18 10:50:21,063 - INFO - epoch: 141, train total/si/dc loss: 2.0622/1.9526/0.1096, train/test/best acc: 0.9618/0.7391/0.771
+
+2023-08-18 10:50:27,061 - INFO - Epoch [142/150] - Loss: 2.0431
+2023-08-18 10:50:27,341 - INFO - epoch: 142, train total/si/dc loss: 2.0492/1.9424/0.1068, train/test/best acc: 0.9568/0.7304/0.771
+
+2023-08-18 10:50:33,317 - INFO - Epoch [143/150] - Loss: 1.9566
+2023-08-18 10:50:33,595 - INFO - epoch: 143, train total/si/dc loss: 2.0309/1.9351/0.0958, train/test/best acc: 0.964/0.7246/0.771
+
+2023-08-18 10:50:39,572 - INFO - Epoch [144/150] - Loss: 2.0008
+2023-08-18 10:50:39,848 - INFO - epoch: 144, train total/si/dc loss: 2.0569/1.9473/0.1095, train/test/best acc: 0.9553/0.7246/0.771
+
+2023-08-18 10:50:45,831 - INFO - Epoch [145/150] - Loss: 1.8392
+2023-08-18 10:50:46,194 - INFO - epoch: 145, train total/si/dc loss: 2.0392/1.9132/0.126, train/test/best acc: 0.951/0.7072/0.771
+
+2023-08-18 10:50:52,196 - INFO - Epoch [146/150] - Loss: 2.2783
+2023-08-18 10:50:52,473 - INFO - epoch: 146, train total/si/dc loss: 2.0225/1.9326/0.0899, train/test/best acc: 0.9654/0.7014/0.771
+
+2023-08-18 10:50:58,445 - INFO - Epoch [147/150] - Loss: 2.0360
+2023-08-18 10:50:58,720 - INFO - epoch: 147, train total/si/dc loss: 2.0219/1.9271/0.0949, train/test/best acc: 0.9604/0.7304/0.771
+
+2023-08-18 10:51:04,698 - INFO - Epoch [148/150] - Loss: 1.9780
+2023-08-18 10:51:04,974 - INFO - epoch: 148, train total/si/dc loss: 2.0083/1.9045/0.1038, train/test/best acc: 0.9561/0.7362/0.771
+
+2023-08-18 10:51:10,965 - INFO - Epoch [149/150] - Loss: 1.9481
+2023-08-18 10:51:11,243 - INFO - epoch: 149, train total/si/dc loss: 2.0499/1.9152/0.1347, train/test/best acc: 0.9524/0.7507/0.771
+
+2023-08-18 10:51:17,255 - INFO - Epoch [150/150] - Loss: 2.0322
+2023-08-18 10:51:17,533 - INFO - epoch: 150, train total/si/dc loss: 2.0322/1.9075/0.1248, train/test/best acc: 0.9496/0.6986/0.771
+
+2023-08-18 10:51:17,533 - INFO - ====================pt_warmup_epochs60======================
+

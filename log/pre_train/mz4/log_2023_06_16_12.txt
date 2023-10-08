@@ -1,0 +1,1 @@
+2023-06-16 12:01:08,551 - INFO - ===========================is_position:True,is_shuffle:True,full_shuffle:False===========================
