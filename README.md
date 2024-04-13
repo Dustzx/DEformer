@@ -1,9 +1,9 @@
-# [DEformer: a doctor’s experience enhancement method](https://github.com/Dustzx/DEformer/blob/main/README.md#DEformer)
-The  DEformer: a doctor’s experience enhancement method for automatic diagnosis based on transformer  is built based on DxFormer's decoder-encoder framework. The repo can be used to reproduce the results in the [paper]():
+# [DEformer: A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis](https://github.com/Dustzx/DEformer/blob/main/README.md#DEformer)
+The  DEformer: A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis is built based on DxFormer's decoder-encoder framework. The repo can be used to reproduce the results in the [paper]():
 
 ## [Overview](https://github.com/Dustzx/DEformer/blob/main/README.md#overview)
 
-In this paper, a doctor’s experience enhancement method model is proposed to learn more implicit experience of doctors. On the Dxy、MZ-4 and MZ-10 dataset, our model outperforms in the core metrics diagnosis accuracy in lower inquiry rounds from 0.7% to 2.0% compared to the most advanced models. In addition, on the MZ-10 dataset our model's symptom recall rate metric  improve 19% compared to the previous state-of-the-art model.
+In this paper, A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis model is proposed to learn more implicit experience of doctors. On the Dxy、MZ-4 and MZ-10 dataset, our model outperforms in the core metrics diagnosis accuracy in lower inquiry rounds from 0.7% to 2.0% compared to the most advanced models. In addition, on the MZ-10 dataset our model's symptom recall rate metric  improve 19% compared to the previous state-of-the-art model.
 
 ## [Setup](https://github.com/Dustzx/DEformer/blob/main/README.md#setup)
 
