@@ -1,5 +1,5 @@
 # [DEformer: A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis](https://github.com/Dustzx/DEformer/blob/main/README.md#DEformer)
-The  DEformer: A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis is built based on DxFormer's decoder-encoder framework. The repo can be used to reproduce the results in the [paper]():
+The  DEformer: A Doctor’s Diagnosis Experience Enhanced Transformer Model for Automatic Diagnosis is built based on DxFormer's decoder-encoder framework. The repo can be used to reproduce the results in the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197624008339):
 
 ## [Overview](https://github.com/Dustzx/DEformer/blob/main/README.md#overview)
 
